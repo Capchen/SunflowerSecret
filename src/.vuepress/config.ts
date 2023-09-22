@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "Cap的秘密花园",
+  title: "Cap",
   description: "Cap的博客",
 
   theme,

@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/me.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Capchen/SunflowerSecret",
 
   docsDir: "src",
 
@@ -31,9 +31,10 @@ export default hopeTheme({
   blog: {
     description: "响应式前端开发",
     intro: "/intro.html",
-    // medias: {
-    //   GitHub: "https://github.com/Capchen",
-    // },
+    medias: {
+      GitHub: "https://github.com/Capchen",
+      zhihu: "https://www.zhihu.com/people/captain-40-68"
+    },
   },
 
   // encrypt: {
