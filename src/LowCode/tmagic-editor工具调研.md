@@ -14,7 +14,7 @@
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   # Tmagic-Editor工具调研

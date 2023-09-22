@@ -14,7 +14,7 @@
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   fs模块是唯一一个同时提供同步和异步API的模块

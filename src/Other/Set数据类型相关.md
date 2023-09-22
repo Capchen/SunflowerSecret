@@ -14,7 +14,7 @@
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   类似于数组，但是值都是唯一的。

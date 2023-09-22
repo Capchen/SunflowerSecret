@@ -14,7 +14,7 @@
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   # CSRF(Cors Site Request Forgery 跨站请求伪造)

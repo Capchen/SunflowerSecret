@@ -14,7 +14,7 @@
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   > 了解Vue的底层架构，是为非web领域提供Vue能力的大前提。Vue核心分为三大块：core，compiler，platform

@@ -21,7 +21,7 @@ function setContent(name) {
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   `;

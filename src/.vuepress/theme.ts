@@ -49,7 +49,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
+    git: false,
     // comment: {
     //   // You should generate and use your own comment service
     //   provider: "Waline",

@@ -14,7 +14,7 @@
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   > 希望能够使用 React 语法写小程序的同时，通过「**Write once Run anywhere**」来实现跨端的。

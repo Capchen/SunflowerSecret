@@ -14,7 +14,7 @@
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   在编码过程中遇到这样的问题：父组件动态传给子组件一个对象，在子组件里，将这个props赋值给data

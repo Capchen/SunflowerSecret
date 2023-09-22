@@ -9,12 +9,12 @@
   date: 2023-09-01
   category: ''
   tag: 'node'
-  sticky: 1
+  sticky: 10
   star: false
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   # 如何通过集群扩展 Node.js 应用程序

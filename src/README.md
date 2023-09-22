@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Cap奇诺
+title: Cap的秘密花语
 heroImage: /logo.svg
 bgImage: /PastedGraphic.png
 heroText: Sunflower's Secret

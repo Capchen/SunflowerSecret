@@ -14,7 +14,7 @@
   article: true
   timeline: true
   image: ''
-  banner: ''
+  editLink: false
 ---
 
   ## 原文地址：[https://zhuanlan.zhihu.com/p/40736286](https://zhuanlan.zhihu.com/p/40736286)
