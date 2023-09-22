@@ -6,7 +6,7 @@
   author:
     name: 'Cap'
   isOriginal: true
-  date: 2020-06-18
+  date: 2020-09-01
   category: ''
   tag: 'emotibot'
   sticky: 1
@@ -17,7 +17,7 @@
   banner: ''
 ---
 
-  # Cross-site scripting(跨站脚本攻击)
+# Cross-site scripting(跨站脚本攻击)
 
 ### 背景和现状
 当网景（Netscape）最初推出JavaScript语言时，他们也察觉到准许网页服务器传送可执行的程式码给一个浏览器的安全风险（即使仅是在一个浏览器的沙盒里）。它所造成的一个关键的问题在于使用者同时开启多个浏览器视窗时，在某些例子里，网页里的片断程式码被允许从另一个网页或物件取出资料，而因为恶意的网站可以用这个方法来尝试窃取机密资讯，所以在某些情形，这应是完全被禁止的。为了解决这个问题，浏览器采用了同源决策——仅允许来自相同网域名称系统和使用相同协定的物件与网页之间的任何互动。
@@ -202,7 +202,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</
 
 - 纯前端渲染
 
-  浏览器直接明确渲染方式，例如innerText，{{ res.data }},避免使用innerHtml，v-html
+浏览器直接明确渲染方式，例如innerText,避免使用innerHtml，v-html
 
 - 转义HTML
 

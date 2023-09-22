@@ -6,9 +6,9 @@
   author:
     name: 'Cap'
   isOriginal: true
-  date: 2020-06-18
+  date: 2022-03-18
   category: ''
-  tag: 'emotibot'
+  tag: 'webpack'
   sticky: 1
   star: false
   article: false
