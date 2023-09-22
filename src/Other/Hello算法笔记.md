@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2023-01-16
   category: ''
-  tag: 'emotibot'
+  tag: '算法'
   sticky: 1
   star: false
   article: true

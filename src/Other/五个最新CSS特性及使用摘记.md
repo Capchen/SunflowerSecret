@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2019-06-21
   category: ''
-  tag: 'emotibot'
+  tag: 'css'
   sticky: 1
   star: false
   article: true

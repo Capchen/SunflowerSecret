@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2023-06-06
   category: ''
-  tag: 'emotibot'
+  tag: 'lowcode'
   sticky: 1
   star: false
   article: true

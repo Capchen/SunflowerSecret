@@ -7,8 +7,8 @@
     name: 'Cap'
   isOriginal: true
   date: 2022-08-23
-  category: ''
-  tag: 'emotibot'
+  category: '基建'
+  tag: 'cli'
   sticky: 1
   star: false
   article: true

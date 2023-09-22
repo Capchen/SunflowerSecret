@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2020-06-18
   category: ''
-  tag: 'emotibot'
+  tag: 'vue'
   sticky: 1
   star: false
   article: true

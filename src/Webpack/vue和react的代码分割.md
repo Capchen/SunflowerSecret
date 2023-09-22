@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2019-06-26
   category: ''
-  tag: 'emotibot'
+  tag: 'webpack'
   sticky: 1
   star: false
   article: true

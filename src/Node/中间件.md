@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2020-05-15
   category: ''
-  tag: 'emotibot'
+  tag: 'node'
   sticky: 1
   star: false
   article: true

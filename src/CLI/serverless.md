@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2020-07-20
   category: ''
-  tag: 'emotibot'
+  tag: 'severless'
   sticky: 1
   star: false
   article: true

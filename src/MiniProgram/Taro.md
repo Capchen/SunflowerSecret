@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2022-07-22
   category: ''
-  tag: 'emotibot'
+  tag: '小程序'
   sticky: 1
   star: false
   article: true

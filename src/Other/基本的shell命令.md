@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2019-11-04
   category: ''
-  tag: 'emotibot'
+  tag: 'sh'
   sticky: 1
   star: false
   article: true

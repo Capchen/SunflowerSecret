@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2020-09-01
   category: ''
-  tag: 'emotibot'
+  tag: 'xss'
   sticky: 1
   star: false
   article: true

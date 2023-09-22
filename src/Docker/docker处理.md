@@ -8,7 +8,7 @@
   isOriginal: true
   date: 2020-06-01
   category: ''
-  tag: 'emotibot'
+  tag: 'docker'
   sticky: 1
   star: false
   article: true

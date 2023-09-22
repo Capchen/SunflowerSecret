@@ -8,8 +8,8 @@ author: {
 }
 isOriginal: true # 当前文章是否为原创。
 date: 2020-06-22 # 写作时间。
-category: '' # 分类
-tag: 'CI/CD' # 标签
+category: '基建' # 分类
+tag: 'CI/CD gitlab' # 标签
 sticky: 1 # 是否在列表中置顶。当填入数字时，数字越大，排名越靠前
 star: false # 是否收藏在博客主题的文章列表中。当填入数字时，数字越大，排名越靠前。
 article: true # 是否将该文章添加至文章列表中
