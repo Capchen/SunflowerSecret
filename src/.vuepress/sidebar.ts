@@ -5,13 +5,12 @@ export default sidebar({
     "" /* / */,
 
     // "",
-    // {
-    //   text: "如何使用",
-    //   icon: "laptop-code",
-    //   prefix: "demo/",
-    //   link: "demo/",
-    //   children: "structure",
-    // },
+    {
+      text: "随笔诗",
+      icon: "",
+      prefix: "Poem/",
+      children: "structure",
+    },
     {
       text: "安全",
       icon: "shield-heart",

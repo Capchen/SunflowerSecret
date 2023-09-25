@@ -10,24 +10,45 @@ export default navbar([
     children: [
       {
         text: "安全",
-        icon: "pen-to-square",
-        prefix: "safety/",
+        icon: "",
+        prefix: "Safety/",
         children: [
-          { text: "XSS", icon: "pen-to-square", link: "XSS" },
-          { text: "CSRF", icon: "pen-to-square", link: "CSRF" },
+          { text: "XSS", icon: "", link: "XSS" },
+          { text: "CSRF", icon: "", link: "CSRF" },
         ],
       },
       {
         text: "Node",
-        icon: "pen-to-square",
+        icon: "",
         prefix: "node/",
         children: [
           {
             text: "EventLoop",
-            icon: "pen-to-square",
+            icon: "",
             link: "Event Loop",
           },
           '如何在node中更好的使用集群'
+        ],
+      },
+      // { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
+      // "tomato",
+    ],
+  },
+  {
+    text: "随笔",
+    icon: "disease",
+    prefix: "/",
+    children: [
+      {
+        text: "诗",
+        icon: "",
+        prefix: "Poem/",
+        children: [
+          {
+            text: "月",
+            icon: "",
+            link: "月",
+          },
         ],
       },
       // { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
