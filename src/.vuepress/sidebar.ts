@@ -75,6 +75,13 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      text: "NestJS",
+      icon: "cube",
+      prefix: "nest",
+      collapsible: true,
+      children: "structure",
+    },
 
     // "intro",
     // "slides",
