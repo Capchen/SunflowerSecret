@@ -64,10 +64,20 @@ Apollo 是一组工具和社区成果，可帮助您在应用程序中使用 Gra
 
 > 原本 RESTful API 的接口，只是挂载到 GraphQL 的 Query 或 Mutation 的根节点下，未作其它改动。这种实践模式，只能有限发挥 GraphQL 合并请求、裁剪数据集的作用。它仍然是面向数据接口，而非面向数据网络的。
 
+结论：
+
+还是以restful api的方式请求后端接口，并且graphql实践不会涉及到历史接口，只会在新模块中实行。
+
+要做到面向数据网络，对后端api的设计要求较高，所以需要从这个层面来把控。
+
 #### 问题2: 需不需要连接数据库
 
 参考：
 > 所有面向外部用户的 GraphQL 服务，我们会限制只能调用其他后端 API，以避免出现密集计算或者架构复杂的情况。只有面向内部用户的服务，才允许 GraphQL 服务直接访问数据库或者缓存。
+
+结论：
+
+不需要，数据库的操作暂时不会放在其中。
 
 ### 架构二
 
@@ -83,7 +93,7 @@ Apollo 是一组工具和社区成果，可帮助您在应用程序中使用 Gra
 
 ![Alt text](image-4.png)
 
-### 问题1: 需不需要GraphQL getway
+### 问题1: 需不需要GraphQL getaway
 
 需要：技术选型和demo实现？
 
@@ -91,11 +101,19 @@ Apollo 是一组工具和社区成果，可帮助您在应用程序中使用 Gra
 
 - [Apollo Router的应用](https://www.apollographql.com/docs/router)
 
+结论：
+
+目前来看如果是以前端bff来实现，还是需要GraphQL getaway的。至于哪种方式实现，需要进一步确认。
+
 ### 问题2: 前端BFF需不需要实现resolvers
 
 如果实现了，那么BFF其实就是个graphQl service？
 
 如果不实现，那么BFF该做的东西又是什么？
+
+结论：
+
+现在来看，这个resolvers的工作其实还是在bff，了解到不用实现resolvers的方式可以用apollo router去实现gateway，需要进一步确认。
 
 ### 问题3: apollo去集成客户端和服务端？
 
@@ -105,13 +123,17 @@ Apollo 是一组工具和社区成果，可帮助您在应用程序中使用 Gra
 
 那BFF要做的东西是什么？好像什么都不用做？
 
+结论：
+
+目前的demo是基于apollo去做的，应该也是较成熟和广泛的方案。
+
 ### 架构三
 
 [GraphQL及元数据驱动架构在后端BFF中的实践](https://tech.meituan.com/2021/05/06/bff-graphql.html)
 
 ![Alt text](image-2.png)
 
-###
+这是后端BFF的实现架构
 
 ## 实现
 
