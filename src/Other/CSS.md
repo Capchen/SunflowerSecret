@@ -17,7 +17,8 @@
   editLink: false
 ---
 
-  ### min-blend-mode
+### min-blend-mode
+
 这个属性指定元素的内容应该如何与其直接父级背景混合。可以选择很多值，类似：
 min-blend-mode： screen | overlay等等
 可以用来做很多有意思的效果。
