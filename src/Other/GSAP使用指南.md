@@ -66,8 +66,6 @@ gsap.set(".box", {x: 100});
 
 ## 排队动起来（timeline）
 
-
-
 ## 按照我的指令动起来 （control）
 
 ## 花式的动起来（plugins）
@@ -75,4 +73,3 @@ gsap.set(".box", {x: 100});
 ### scrollTrigger
 
 ### Draggable
-
