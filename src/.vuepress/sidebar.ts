@@ -82,7 +82,20 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
-
+    {
+      text: "Monorepo",
+      icon: "cube",
+      prefix: "monorepo",
+      collapsible: true,
+      children: "structure",
+    },
+    {
+      text: "微前端",
+      icon: "cube",
+      prefix: "微前端",
+      collapsible: true,
+      children: "structure",
+    },
     // "intro",
     // "slides",
   ],
