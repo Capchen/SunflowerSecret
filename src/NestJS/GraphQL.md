@@ -4,7 +4,7 @@
   description: ''
   icon: ''
   author:
-    name: 'Cap'
+  name: 'Cap'
   isOriginal: true
   date: 2022-07-22
   category: ''
