@@ -28,12 +28,21 @@ editLink: false # 设置横幅图片 (宽屏分享图)，请填入绝对路径�
 
 ### MVC
 
+![AOP](./mvc.webp)
 
 ### IOC
 
 依赖自动注入，不需要手动处理依赖关系及注入操作，一切都是根据装饰器声明自动扫描并创建注入。
 
+那么nest是如何实现IoC的呢 --- Reflect MetaData
+
+[Nest 的实现原理？理解了 reflect metadata 就懂了](https://juejin.cn/post/7125066863150628900?searchId=2024011118224195363138895777B5DE8C)
+
+> Nest 的 Controller、Module、Service 等等所有的装饰器都是通过 Reflect.meatdata 给类或对象添加元数据的，然后初始化的时候取出来做依赖的扫描，实例化后放到 IOC 容器里。实例化对象还需要构造器参数的类型，这个开启 ts 的 emitDecoratorMetadata 的编译选项之后， ts 就会自动添加一些元数据，也就是 design:type、design:paramtypes、design:returntype 这三个，分别代表被装饰的目标的类型、参数的类型、返回值的类型。
+
 ### AOP
+
+![AOP](./AOP.webp)
 
 面向切面编程
 
