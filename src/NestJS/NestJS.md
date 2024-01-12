@@ -23,3 +23,43 @@ editLink: false # 设置横幅图片 (宽屏分享图)，请填入绝对路径�
 - [官方文档](https://docs.nestjs.com/)
 - [翻译文档](http://nestjs.inode.club/)
 - [翻译文档](https://nest.nodejs.cn/)
+
+## 概念
+
+### MVC
+
+
+### IOC
+
+依赖自动注入，不需要手动处理依赖关系及注入操作，一切都是根据装饰器声明自动扫描并创建注入。
+
+### AOP
+
+面向切面编程
+
+- Middleware
+- Guard
+- Interceptor
+- Pipe
+- ExceptionFilter
+
+它们的调用顺序为：
+
+Middleware -> Guard -> Interceptor -> Pipe -> ExceptionFilter
+
+nest继承了express的概念，所以最外层会调用Middleware，
+进入具体路由之后，接着调用Guard，例如权限判断
+接着进入Controller之前，会调用Interceptor拦截器
+完成之后，调用Pipe对参数做处理，然后匹配抛出的异常执行ExceptionFilter
+
+## 控制器
+
+### 作用域
+
+TODO
+
+## 模块（Modules）
+
+- 模块的生命周期是怎样的
+- 一个共享模块被修改值后，是否会影响到所有使用这个模块的其他模块
+- 同一模块被导入，又被导出的意义是什么
