@@ -6,7 +6,7 @@ export default sidebar({
 
     // "",
     {
-      text: "随笔诗",
+      text: "随笔打油诗",
       icon: "",
       prefix: "Poem/",
       children: "structure",
