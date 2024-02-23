@@ -1,0 +1,3 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as n,d as t}from"./app-3153c7a4.js";const s={},d=t(`<h2 id="月" tabindex="-1"><a class="header-anchor" href="#月" aria-hidden="true">#</a> 月</h2><div class="language-html line-numbers-mode" data-ext="html"><pre class="language-html"><code>南游万里客，群群向北归  
+陌路无知己，又是异乡人
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2),i=[d];function r(c,l){return a(),n("div",null,i)}const m=e(s,[["render",r],["__file","归家有感.html.vue"]]);export{m as default};
