@@ -6,6 +6,12 @@ export default sidebar({
 
     // "",
     {
+      text: "碎碎念",
+      icon: "",
+      prefix: "碎碎念/",
+      children: "structure",
+    },
+    {
       text: "随笔打油诗",
       icon: "",
       prefix: "Poem/",
