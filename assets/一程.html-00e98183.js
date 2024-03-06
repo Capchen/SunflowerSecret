@@ -1,2 +1,0 @@
-import{_ as s}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as a,a as e}from"./app-2d67125e.js";const n={},l=e("div",{class:"language-html line-numbers-mode","data-ext":"html"},[e("pre",{class:"language-html"},[e("code",null,`山水同路，川流入海
-`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),c=[l];function o(r,_){return t(),a("div",null,c)}const m=s(n,[["render",o],["__file","一程.html.vue"]]);export{m as default};
