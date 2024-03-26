@@ -57,9 +57,8 @@ editLink: false # 设置横幅图片 (宽屏分享图)，请填入绝对路径�
 Middleware -> Guard -> Interceptor -> Pipe -> ExceptionFilter
 
 nest继承了express的概念，所以最外层会调用Middleware，
-进入具体路由之后，接着调用Guard，例如权限判断
-接着进入Controller之前，会调用Interceptor拦截器
-完成之后，调用Pipe对参数做处理，然后匹配抛出的异常执行ExceptionFilter
+进入具体路由之后，接着调用Guard，例如权限判断，然后会调用Interceptor拦截器
+完成之后，调用Pipe对参数做处理，没问题后，才会进入Controller，然后匹配抛出的异常执行ExceptionFilter
 
 ## 控制器
 
