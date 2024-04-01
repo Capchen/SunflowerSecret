@@ -10,7 +10,7 @@
   category: ''
   tag: 'GraphQL Apollo'
   sticky: 1
-  star: false
+  star: true
   article: true
   timeline: true
   image: ''
