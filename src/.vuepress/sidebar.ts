@@ -25,6 +25,13 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "算法",
+      icon: "shield-heart",
+      collapsible: true,
+      prefix: "算法/",
+      children: "structure",
+    },
+    {
       text: "低代码",
       icon: "laptop-code",
       collapsible: true,
@@ -84,14 +91,21 @@ export default sidebar({
     {
       text: "NestJS",
       icon: "cube",
-      prefix: "nest",
+      prefix: "NestJS",
+      collapsible: true,
+      children: "structure",
+    },
+    {
+      text: "GraphQL",
+      icon: "cube",
+      prefix: "GraphQL",
       collapsible: true,
       children: "structure",
     },
     {
       text: "Monorepo",
       icon: "cube",
-      prefix: "monorepo",
+      prefix: "Monorepo",
       collapsible: true,
       children: "structure",
     },
