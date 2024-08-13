@@ -56,14 +56,14 @@ export default sidebar({
     },
     {
       text: "Docker",
-      icon: "linode",
+      icon: "truck-moving",
       collapsible: true,
       prefix: "Docker/",
       children: "structure",
     },
     {
       text: "Node",
-      icon: "node",
+      icon: "file-code",
       prefix: "Node/",
       collapsible: true,
       children: "structure",
@@ -112,7 +112,7 @@ export default sidebar({
     },
     {
       text: "CSS",
-      icon: "css3",
+      icon: "palette",
       prefix: "CSS", 
       collapsible: true,
       children: "structure",
