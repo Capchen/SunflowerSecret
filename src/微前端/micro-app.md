@@ -1,6 +1,6 @@
 ---
 title: '京东micro-app' # 当前页面内容标题，默认为 Markdown 文件中的第一个 h1 标签内容
-shortTitle: '微前端框架' # 当前页面的短标题
+shortTitle: '🚗micro-app' # 当前页面的短标题
 description: '' # 当前页面内容描述
 icon: '' # 当前页面图标的 FontClass 或文件路径 (建议填写)。
 author: {
