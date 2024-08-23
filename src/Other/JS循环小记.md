@@ -17,12 +17,14 @@
   editLink: false
 ---
 
-  ### 循环类型
+### 循环类型
+
 在ECMA262标准第三版中定义了四种类型的循环
-#### for
-#### while
-#### do...while...
-#### for...in...
+
+1. for
+2. while
+3. do...while...
+4. for...in...
 
 for in 循环比其他几种要慢，这是因为每次迭代时都会搜索实例和原型对象
 
@@ -34,6 +36,7 @@ for (const key in object) {
   }
 }
 ```
+
 上面代码是vscode快速补全插件带出来的forin循环，加了hasOwnProperty判断
 
 ```javascript
@@ -53,13 +56,14 @@ for (let i in iterable) {
   }
 }
 ```
+
 上面代码就直观了。
 所以除非明确需要迭代一个属性数量未知的对象，否则避免使用forin，用它来遍历数组也是得不偿失
 
-至于 `for...of` 
+至于 `for...of`
+
 > [`for...in`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for...in) 语句以原始插入顺序迭代对象的[可枚举属性](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)。
 > `for...of` 语句遍历[可迭代对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Iterators_and_Generators#Iterables)定义要迭代的数据。
-> 
 
 ```javascript
 for (let i of iterable) {
