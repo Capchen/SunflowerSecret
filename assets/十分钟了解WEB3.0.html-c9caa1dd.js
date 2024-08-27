@@ -1,1 +1,0 @@
-import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as e}from"./app-0e6dcd4b.js";const c={},r=e("p",null,[e("a",{href:"./WEB3.0.pdf"},"WEB3浅入浅出")],-1),s=[r];function n(a,l){return t(),o("div",null,s)}const i=_(c,[["render",n],["__file","十分钟了解WEB3.0.html.vue"]]);export{i as default};
