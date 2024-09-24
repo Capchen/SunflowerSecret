@@ -49,6 +49,9 @@ export default hopeTheme({
   // },
 
   plugins: {
+    mdEnhance: {
+      mermaid: true,
+    },
     blog: true,
     git: false,
     // comment: {
