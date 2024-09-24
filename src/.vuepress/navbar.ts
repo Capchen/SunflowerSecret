@@ -30,8 +30,6 @@ export default navbar([
           '如何在node中更好的使用集群'
         ],
       },
-      // { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      // "tomato",
     ],
   },
   {
@@ -55,4 +53,31 @@ export default navbar([
       // "tomato",
     ],
   },
+  {
+    text: "近期更新",
+    icon: "font-awesome",
+    prefix: "/",
+    children: [
+      {
+        text: "HTTP一览",
+        icon: "",
+        prefix: "面试/",
+        children: [
+          { text: "HTTP一览", icon: "", link: "HTTP一览" },
+        ],
+      },
+      {
+        text: "WEB3",
+        icon: "",
+        prefix: "Web3/",
+        children: [
+          {
+            text: "十分钟了解WEB3.0",
+            icon: "",
+            link: "十分钟了解WEB3.0",
+          },
+        ],
+      },
+    ],
+  }
 ]);

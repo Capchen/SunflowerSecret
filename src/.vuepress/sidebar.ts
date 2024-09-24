@@ -130,6 +130,12 @@ export default sidebar({
       prefix: "碎碎念/",
       children: "structure",
     },
+    {
+      text: "面试",
+      icon: "hand-sparkles",
+      prefix: "面试/",
+      children: "structure",
+    },
     // "intro",
     // "slides",
   ],
