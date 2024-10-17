@@ -9,6 +9,7 @@ export default sidebar({
       text: "随笔打油诗",
       icon: "",
       prefix: "Poem/",
+      collapsible: true,
       children: "structure",
     },
     {
@@ -128,12 +129,14 @@ export default sidebar({
       text: "碎碎念",
       icon: "theater-masks",
       prefix: "碎碎念/",
+      collapsible: true,
       children: "structure",
     },
     {
       text: "面试",
       icon: "hand-sparkles",
       prefix: "面试/",
+      collapsible: true,
       children: "structure",
     },
     // "intro",
