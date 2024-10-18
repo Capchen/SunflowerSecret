@@ -77,6 +77,20 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "React",
+      icon: "dog",
+      prefix: "React/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
+      text: "Rust",
+      icon: "flower",
+      prefix: "Rust/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "Webpack",
       icon: "cubes",
       prefix: "Webpack",
