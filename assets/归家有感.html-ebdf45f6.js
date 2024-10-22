@@ -1,0 +1,3 @@
+import{_ as a}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as r,a as t}from"./app-595d18e5.js";const l={};function i(d,e){return n(),r("div",null,e[0]||(e[0]=[t(`<h2 id="归家有感" tabindex="-1"><a class="header-anchor" href="#归家有感" aria-hidden="true">#</a> 归家有感</h2><div class="language-html line-numbers-mode" data-ext="html"><pre class="language-html"><code>南游万里客，群群向北归  
+陌路无知己，又是异乡人
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><blockquote><p>每年春节回家乡，都是深圳北上归乡的一员。家乡一直在变化，那些熟悉的街道都慢慢变得陌生，儿时的玩伴也都许久没有联系，街坊邻居更多的是新面孔。就好像回到家乡，自己又是一个异乡人。在深圳也是，在家乡也是。</p></blockquote>`,3)]))}const o=a(l,[["render",i],["__file","归家有感.html.vue"]]);export{o as default};
