@@ -49,9 +49,9 @@ export default sidebar({
     },
 
     {
-      text: "杂库",
+      text: "js",
       icon: "warehouse",
-      prefix: "Other/",
+      prefix: "JS/",
       collapsible: true,
       children: "structure",
     },
