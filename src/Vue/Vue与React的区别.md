@@ -14,7 +14,6 @@ sticky: 100 # 是否在列表中置顶。当填入数字时，数字越大，排
 star: true # 是否收藏在博客主题的文章列表中。当填入数字时，数字越大，排名越靠前。
 article: true # 是否将该文章添加至文章列表中
 timeline: true # 是否将该文章添加至时间线中
-
 ---
 
 - [参考链接](https://mp.weixin.qq.com/s/6QTdeM2l1htofCnKLZS6yw)
