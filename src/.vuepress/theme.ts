@@ -10,6 +10,8 @@ export default hopeTheme({
     url: "",
   },
 
+  pageInfo: ["Author", "Date", "Original", "Category", "Tag", "ReadingTime", "PageView" ],
+
   iconAssets: "fontawesome-with-brands",
 
   logo: "/me.png",
