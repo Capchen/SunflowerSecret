@@ -57,6 +57,8 @@ export default hopeTheme({
       // You should generate and use your own comment service
       provider: "Waline",
       serverURL: "https://sunflower-comment-1dhzejvo8-capchens-projects.vercel.app",
+      pageview: true,
+      comment: true,
     },
 
     // all features are enabled for demo, only preserve features you need here
