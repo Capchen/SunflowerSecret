@@ -1,21 +1,22 @@
 ---
-  title: '关于推进PC端项目模板统一方案整理'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2022-08-23
-  category: '基建'
-  tag: 'cli'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: 基建
+date: 2022-08-23
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: cli
+timeline: true
+title: 关于推进PC端项目模板统一方案整理
 ---
+
 
   ### 背景
 

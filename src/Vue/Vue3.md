@@ -1,21 +1,22 @@
 ---
-  title: 'VUE3'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2020-07-29
-  category: ''
-  tag: 'vue vue3'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2020-07-29
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: vue vue3
+timeline: true
+title: VUE3
 ---
+
 
 ## tree-shaking
 

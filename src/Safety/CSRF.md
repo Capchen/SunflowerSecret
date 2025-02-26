@@ -1,21 +1,22 @@
 ---
-  title: 'CSRF(Cors Site Request Forgery 跨站请求伪造)'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2023-09-01
-  category: ''
-  tag: 'csrf'
-  sticky: 9
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2023-09-01
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 9
+tag: csrf
+timeline: true
+title: CSRF(Cors Site Request Forgery 跨站请求伪造)
 ---
+
 
 ## 什么是CSRF
 

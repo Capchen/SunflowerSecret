@@ -1,21 +1,22 @@
 ---
-  title: 'vite'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2022-03-18
-  category: ''
-  tag: 'vue vite'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2022-03-18
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: vue vite
+timeline: true
+title: vite
 ---
+
 
   ## bundless
 依据浏览器支持的ESM模块，去分别拉取对应的文件

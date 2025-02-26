@@ -1,21 +1,22 @@
 ---
-  title: '五个最新CSS特性及使用摘记'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2019-06-21
-  category: ''
-  tag: 'css'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2019-06-21
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: css
+timeline: true
+title: 五个最新CSS特性及使用摘记
 ---
+
 
   ## 原文地址：[https://zhuanlan.zhihu.com/p/40736286](https://zhuanlan.zhihu.com/p/40736286)
 ## 1. display: contents

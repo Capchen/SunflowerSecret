@@ -1,21 +1,21 @@
 ---
-  title: '从微前端看BF开发模式'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-  name: 'Cap'
-  isOriginal: true
-  date: 2020-07-08
-  category: ''
-  tag: 'emotibot'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author: null
+category: ''
+date: 2020-07-08
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: emotibot
+timeline: true
+title: 从微前端看BF开发模式
 ---
+
 
 ### 什么是微前端
 

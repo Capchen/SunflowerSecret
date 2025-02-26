@@ -1,21 +1,22 @@
 ---
-  title: 'vue和react的代码分割'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2019-06-26
-  category: ''
-  tag: 'webpack'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2019-06-26
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: webpack
+timeline: true
+title: vue和react的代码分割
 ---
+
 
   ### vue中的代码分割（路由懒加载）
 结合异步组件和webpack的代码分割功能来实现路由组件的懒加载

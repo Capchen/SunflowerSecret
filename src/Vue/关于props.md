@@ -1,21 +1,22 @@
 ---
-  title: '关于props'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2019-07-02
-  category: ''
-  tag: 'vue'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2019-07-02
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: vue
+timeline: true
+title: 关于props
 ---
+
 
   在编码过程中遇到这样的问题：父组件动态传给子组件一个对象，在子组件里，将这个props赋值给data
 代码如下：

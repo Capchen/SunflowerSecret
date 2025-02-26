@@ -1,21 +1,22 @@
 ---
-  title: '前端项目获取部署工程environment配置选项值可行方案一'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2020-09-16
-  category: ''
-  tag: 'emotibot'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2020-09-16
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: emotibot
+timeline: true
+title: 前端项目获取部署工程environment配置选项值可行方案一
 ---
+
 
   ### 背景：
 H5聊天机器人配置功能，希望在demo-test环境中生效，但是暂时还不希望跟着BF2.1.4版本。demo-test环境又是和2.1.4版本同步的，所以如果要在两个环境中差别维护H5配置这个功能,在升级或更新时需要额外的精力对这个模块做处理。所以希望通过能否在部署工程中配置个开关，对这个功能部署时控制是否展示。

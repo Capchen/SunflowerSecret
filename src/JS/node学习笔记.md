@@ -1,21 +1,22 @@
 ---
-  title: 'node学习笔记'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2019-05-21
-  category: ''
-  tag: 'node'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2019-05-21
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: node
+timeline: true
+title: node学习笔记
 ---
+
 ### commonJS规范
 
 #### 模块

@@ -1,21 +1,22 @@
 ---
-  title: '基本的shell命令'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2019-11-04
-  category: ''
-  tag: 'sh'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2019-11-04
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: sh
+timeline: true
+title: 基本的shell命令
 ---
+
 
 ### 文件操作
 

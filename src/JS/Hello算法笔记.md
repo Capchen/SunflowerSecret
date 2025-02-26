@@ -1,21 +1,22 @@
 ---
-  title: 'Hello算法笔记'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2023-01-16
-  category: ''
-  tag: '算法'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2023-01-16
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: 算法
+timeline: true
+title: Hello算法笔记
 ---
+
 <!-- markdownlint-disable MD024 -->
 ### 数据结构
 
