@@ -19,6 +19,7 @@ title: Object.defineProperty可能表现更好的场景
 
 
 
+
 ## 简单对象的监听
 
 当我们只需要监听一个简单对象的少量属性时，Object.defineProperty 可能会有更好的性能。这是因为它不需要创建额外的代理对象。

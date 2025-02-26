@@ -19,6 +19,7 @@ title: gitlab实现CI自动化
 
 
 
+
 ## 实现过程
 
 1. 准备好gitlab，需要注意版本信息，需要与runner匹配兼容

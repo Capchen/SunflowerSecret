@@ -19,6 +19,7 @@ title: 五个最新CSS特性及使用摘记
 
 
 
+
   ## 原文地址：[https://zhuanlan.zhihu.com/p/40736286](https://zhuanlan.zhihu.com/p/40736286)
 ## 1. display: contents
 > The element itself does not generate any boxes, but its children and pseudo-elements still generate boxes as normal. For the purposes of box generation and layout, the element must be treated as if it had been replaced with its children and pseudo-elements in the document tree.

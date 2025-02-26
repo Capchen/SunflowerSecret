@@ -19,6 +19,7 @@ title: CSRF(Cors Site Request Forgery 跨站请求伪造)
 
 
 
+
 ## 什么是CSRF
 
 跨站请求伪造（英语：Cross-site request forgery），也被称为one-click attack或者session riding，通常缩写为CSRF或者XSRF，是一种挟制用户在当前已登录的Web应用程序上执行非本意的操作的攻击方法。 跟跨网站脚本（XSS）相比，XSS利用的是用户对指定网站的信任，CSRF利用的是网站对用户网页浏览器的信任。

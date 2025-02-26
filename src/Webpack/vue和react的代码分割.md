@@ -19,6 +19,7 @@ title: vue和react的代码分割
 
 
 
+
   ### vue中的代码分割（路由懒加载）
 结合异步组件和webpack的代码分割功能来实现路由组件的懒加载
 > 链接地址 [https://router.vuejs.org/zh/guide/advanced/lazy-loading.html](https://router.vuejs.org/zh/guide/advanced/lazy-loading.html)

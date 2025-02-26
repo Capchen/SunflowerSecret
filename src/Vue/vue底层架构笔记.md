@@ -19,6 +19,7 @@ title: vue底层架构笔记
 
 
 
+
   > 了解Vue的底层架构，是为非web领域提供Vue能力的大前提。Vue核心分为三大块：core，compiler，platform
 
 原文地址：[https://juejin.im/post/5cef749451882530810e0626#heading-8](https://juejin.im/post/5cef749451882530810e0626#heading-8)

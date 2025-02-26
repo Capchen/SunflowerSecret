@@ -19,6 +19,7 @@ title: FS相关
 
 
 
+
   fs模块是唯一一个同时提供同步和异步API的模块
 
 - fs.readdirSync(__dirname) 同步读取一个文件
