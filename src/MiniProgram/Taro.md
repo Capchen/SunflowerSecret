@@ -18,6 +18,7 @@ title: Taro
 ---
 
 
+
   > 希望能够使用 React 语法写小程序的同时，通过「**Write once Run anywhere**」来实现跨端的。
 
 - [《小程序跨框架开发的探索与实践》演讲全文](https://docs.taro.zone/blog/2020-01-02-gmtc/)

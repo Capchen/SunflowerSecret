@@ -18,6 +18,7 @@ title: Object.defineProperty与Proxy
 ---
 
 
+
 ## Object.defineProperty
 
 Object.defineProperty 是 ES5 引入的方法，用于在对象上定义新属性或修改现有属性。

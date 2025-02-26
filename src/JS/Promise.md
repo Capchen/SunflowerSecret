@@ -18,6 +18,7 @@ title: Promise
 ---
 
 
+
 ## 新建一个Promise实例的时候，发生了什么
 
 ```javascript

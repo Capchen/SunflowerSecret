@@ -18,6 +18,7 @@ title: HTTP一览
 ---
 
 
+
 ![各版本对比](./images/http1-2.png)
 
 ## HTTP1

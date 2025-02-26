@@ -75,7 +75,7 @@ def process_all_files():
     count = 0
     for root, dirs, files in os.walk(src_dir):
         for file in files:
-            if file.endswith('.md'):
+            if file.endswith('.md') and file != "README.md":
                 file_path = os.path.join(root, file)
                 process_file(file_path)
                 count += 1
