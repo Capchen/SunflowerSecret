@@ -1,20 +1,24 @@
 ---
-title: '左手粘着Vue右手舞着React' # 当前页面内容标题，默认为 Markdown 文件中的第一个 h1 标签内容
-shortTitle: 'Vue与React' # 当前页面的短标题
-description: '' # 当前页面内容描述
-icon: '' # 当前页面图标的 FontClass 或文件路径 (建议填写)。
-author: {
-  name: 'Cap'
-}
-isOriginal: true # 当前文章是否为原创。
-date: 2024-10-21 # 写作时间。
-category: '' # 分类
-tag: '' # 标签
-sticky: 106 # 是否在列表中置顶。当填入数字时，数字越大，排名越靠前
-star: true # 是否收藏在博客主题的文章列表中。当填入数字时，数字越大，排名越靠前。
-article: true # 是否将该文章添加至文章列表中
-timeline: true # 是否将该文章添加至时间线中
+article: true
+author:
+  name: Cap
+category: ''
+date: 2024-10-21
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: Vue与React
+star: true
+sticky: 106
+tag: ''
+timeline: true
+title: 左手粘着Vue右手舞着React
 ---
+
+
+
 
 作为前端开发工程师，当我们左手拿着 Vue，右手拿着 React，关于它们的种种，其实我们都应该是了然于胸的。
 

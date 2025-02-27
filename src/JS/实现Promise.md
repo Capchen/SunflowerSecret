@@ -1,19 +1,24 @@
 ---
-  title: '手撕Promise'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2024-08-23
-  category: ''
-  tag: 'javascript'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
+article: true
+author:
+  name: Cap
+category: ''
+date: 2024-08-23
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: javascript
+timeline: true
+title: 手撕Promise
 ---
+
+
+
 
 ```js
 class MyPromise {

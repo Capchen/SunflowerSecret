@@ -1,21 +1,24 @@
 ---
-  title: 'JS循环小记'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2019-08-01
-  category: ''
-  tag: 'javascript'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2019-08-01
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: javascript
+timeline: true
+title: JS循环小记
 ---
+
+
+
 
 ### 循环类型
 

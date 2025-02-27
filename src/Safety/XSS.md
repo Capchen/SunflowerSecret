@@ -1,21 +1,24 @@
 ---
-  title: 'XSS'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2020-09-01
-  category: ''
-  tag: 'xss'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2020-09-01
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: xss
+timeline: true
+title: XSS
 ---
+
+
+
 
 # Cross-site scripting(跨站脚本攻击)
 

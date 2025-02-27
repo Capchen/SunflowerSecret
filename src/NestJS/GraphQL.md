@@ -1,21 +1,23 @@
 ---
-  title: 'GraphQL'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-  name: 'Cap'
-  isOriginal: true
-  date: 2022-07-22
-  category: ''
-  tag: 'nest'
-  sticky: 1
-  star: true
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author: null
+category: ''
+date: 2022-07-22
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: true
+sticky: 1
+tag: nest
+timeline: true
+title: GraphQL
 ---
+
+
+
 
 ## 初识
 

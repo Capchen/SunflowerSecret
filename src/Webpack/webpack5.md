@@ -1,21 +1,24 @@
 ---
-  title: 'webpack5'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2022-03-18
-  category: ''
-  tag: 'webpack'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2022-03-18
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: webpack
+timeline: true
+title: webpack5
 ---
+
+
+
 
 ## node版本
 

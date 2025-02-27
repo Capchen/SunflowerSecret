@@ -1,21 +1,24 @@
 ---
-  title: '如何在node中更好的使用集群'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2023-09-01
-  category: ''
-  tag: 'node'
-  sticky: 10
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2023-09-01
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 10
+tag: node
+timeline: true
+title: 如何在node中更好的使用集群
 ---
+
+
+
 
   # 如何通过集群扩展 Node.js 应用程序
 

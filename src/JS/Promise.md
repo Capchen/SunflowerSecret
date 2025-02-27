@@ -1,21 +1,24 @@
 ---
-  title: 'Promise'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2019-09-22
-  category: ''
-  tag: 'javascript'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2019-09-22
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: javascript
+timeline: true
+title: Promise
 ---
+
+
+
 
 ## 新建一个Promise实例的时候，发生了什么
 

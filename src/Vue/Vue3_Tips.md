@@ -1,21 +1,24 @@
 ---
-  title: 'vue3 tips'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2020-06-18
-  category: ''
-  tag: 'vue'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2020-06-18
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: vue
+timeline: true
+title: vue3 tips
 ---
+
+
+
 
   ### ref/toRef/toRefs
 因为 props 是响应式的，你**不能使用 ES6 解构**，它会消除 prop 的响应性

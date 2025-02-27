@@ -1,21 +1,24 @@
 ---
-  title: 'docker处理'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2020-06-01
-  category: ''
-  tag: 'docker'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2020-06-01
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: docker
+timeline: true
+title: docker处理
 ---
+
+
+
 
   ### 前端docker容器
 前端的镜像里面包含nginx服务，外部请求过来后，会先经过load-balance（以下简称LB）来进行一个转发，比如技能开发的URL为/skill/，LB会将此路径的请求转发到skill-ui容器，skill-ui容器里面nginx会依据配置，将/skillAPI/路径下的请求转发到配置好的skill_backend_url容器。

@@ -1,21 +1,24 @@
 ---
-  title: 'webpack'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2022-03-17
-  category: ''
-  tag: 'webpack'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2022-03-17
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: webpack
+timeline: true
+title: webpack
 ---
+
+
+
 
   ## 启动
 运行命令后，npm会让命令行工具进入，node_module下的bin目录去找是否存在webpack.sh/webpack.cmd,存在就执行，不存在就抛出错误

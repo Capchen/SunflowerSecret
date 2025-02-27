@@ -1,20 +1,24 @@
 ---
-  title: '5分钟上手GSAP'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2023-11-27
-  category: ''
-  tag: 'js annimation'
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2023-11-27
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: js annimation
+timeline: true
+title: 5分钟上手GSAP
 ---
+
+
+
 
 ## 什么是GSAP
 

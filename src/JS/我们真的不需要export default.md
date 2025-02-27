@@ -1,21 +1,24 @@
 ---
-  title: '我们真的不需要export default'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2020-09-09
-  category: ''
-  tag: 'emotibot'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2020-09-09
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: emotibot
+timeline: true
+title: 我们真的不需要export default
 ---
+
+
+
 
 ## 原文链接[https://zhuanlan.zhihu.com/p/40733281](https://zhuanlan.zhihu.com/p/40733281)
 

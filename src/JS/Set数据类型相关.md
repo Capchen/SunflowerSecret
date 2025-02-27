@@ -1,21 +1,24 @@
 ---
-  title: 'Set数据类型相关'
-  shortTitle: ''
-  description: ''
-  icon: ''
-  author:
-    name: 'Cap'
-  isOriginal: true
-  date: 2019-06-14
-  category: ''
-  tag: 'javascript'
-  sticky: 1
-  star: false
-  article: true
-  timeline: true
-  image: ''
-  editLink: false
+article: true
+author:
+  name: Cap
+category: ''
+date: 2019-06-14
+description: ''
+editLink: false
+icon: ''
+image: ''
+isOriginal: true
+shortTitle: ''
+star: false
+sticky: 1
+tag: javascript
+timeline: true
+title: Set数据类型相关
 ---
+
+
+
 
 类似于数组，但是值都是唯一的。
 `const a = new Set([1,2,3,3,4])`
