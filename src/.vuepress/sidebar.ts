@@ -153,6 +153,13 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      text: "AI",
+      icon: "robot",
+      prefix: "AI/",
+      collapsible: true,
+      children: "structure",
+    },
     // "intro",
     // "slides",
   ],
